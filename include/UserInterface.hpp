@@ -2,6 +2,6 @@
 
 #include "Trip.hpp"
 
-class UserInterace{
+class UserInterface{
 
 };
